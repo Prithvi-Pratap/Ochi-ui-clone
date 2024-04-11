@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/Prithvi-Pratap/Ochi-ui-clone>
+   git clone https://github.com/Prithvi-Pratap/Ochi-ui-clone
 
 2. Install Dependencies:
    ```bash
